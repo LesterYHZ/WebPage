@@ -1,0 +1,150 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="robomaster.com" resolutions="1x" timestamp="1518842252492">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="our-event.css" crc="469603030" ref="our-event"/>
+    <file name="nomq_our-event.css" crc="3996264427" ref="our-event"/>
+    <file name="about.css" crc="3983866350" ref="about"/>
+    <file name="nomq_about.css" crc="3964879324" ref="about"/>
+    <file name="sponsors.css" crc="312326310" ref="sponsors"/>
+    <file name="nomq_sponsors.css" crc="4266116622" ref="sponsors"/>
+    <file name="our-work.css" crc="4044803916" ref="our-work"/>
+    <file name="nomq_our-work.css" crc="129433524" ref="our-work"/>
+    <file name="contact.css" crc="127599490" ref="contact"/>
+    <file name="nomq_contact.css" crc="4162263076" ref="contact"/>
+    <file name="contact_sub.css" crc="4009089571" ref="contact_sub"/>
+    <file name="nomq_contact_sub.css" crc="4005277824" ref="contact_sub"/>
+    <file name="our-team.css" crc="4080885927" ref="our-team"/>
+    <file name="nomq_our-team.css" crc="119513154" ref="our-team"/>
+    <file name="index.css" crc="287733488" ref="index"/>
+    <file name="nomq_index.css" crc="4084791645" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="museutils.js" crc="4232573551" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="require.js" crc="4234670167" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="webpro.js" crc="3770351119" ref="contact:sponsors"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u1216.php" crc="4286920716" ref="contact"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="sponsors"/>
+  </folder>
+  <folder name="images">
+    <file name="main_background_2_1.jpg" crc="384552757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shenzhen1.jpg" crc="283510266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main_background_2_1640x360.jpg" crc="4057256794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shenzhen1-crop-u200.jpg" crc="121546404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="main_background_1.jpg" crc="28940260" seo="true" ref="contact:about:our-work:our-team:our-event:sponsors:contact_sub">
+      <caption webpage="our-event" alt=""/>
+      <caption webpage="our-event" alt=""/>
+      <caption webpage="our-event" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="contact_sub" alt=""/>
+      <caption webpage="contact_sub" alt=""/>
+      <caption webpage="contact_sub" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="main_background_1801x238.jpg" crc="365615613" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="main_background_1640x191.jpg" crc="479953427" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="we need photos-crop-u1852.jpg" crc="88484508" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="we need photos-crop-u1872.jpg" crc="88484508" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="we need photos317x265.jpg" crc="433778281" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="we need photos-crop-u18522.jpg" crc="3985299639" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="we need photos-crop-u18722.jpg" crc="3985299639" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="we need photos178x149.jpg" crc="4142279363" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="we need photos-crop-u2027.jpg" crc="88484508" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u1969.jpg" crc="88484508" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u2029.jpg" crc="88484508" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u1971.jpg" crc="88484508" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u20272.jpg" crc="3985299639" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u19692.jpg" crc="3985299639" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u20292.jpg" crc="3985299639" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u19712.jpg" crc="3985299639" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="we need photos-crop-u2659.jpg" crc="88484508" seo="true" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="we need photos-crop-u2661.jpg" crc="88484508" seo="true" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="we need photos-crop-u26592.jpg" crc="3985299639" seo="true" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="we need photos-crop-u26612.jpg" crc="3985299639" seo="true" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4061446096" seo="true" mt="1518842127169" redirect="true"/>
+  <file name="contact.html" crc="4237139169" seo="true" mt="1518841290168" redirect="true"/>
+  <file name="about.html" crc="518679333" seo="true" mt="1518841274119" redirect="true"/>
+  <file name="our-work.html" crc="3928580765" seo="true" mt="1518841274037" redirect="true"/>
+  <file name="our-team.html" crc="144060032" seo="true" mt="1518841274288" redirect="true"/>
+  <file name="our-event.html" crc="57761029" seo="true" mt="1518841274360" redirect="true"/>
+  <file name="sponsors.html" crc="3851728" seo="true" mt="1518842223074" redirect="true"/>
+  <file name="contact_sub.html" crc="105714181" seo="true" mt="1518841401021" redirect="true"/>
+</manifest>
